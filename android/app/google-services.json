@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "851073669406",
+    "firebase_url": "https://zagel-c294f-default-rtdb.firebaseio.com",
+    "project_id": "zagel-c294f",
+    "storage_bucket": "zagel-c294f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851073669406:android:07c44c145da18bb549110f",
+        "android_client_info": {
+          "package_name": "com.example.zagel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_RvSMtO099fbiaBD18iinUSO6p_tsRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
